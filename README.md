@@ -1,1 +1,3 @@
-NEOFETCH
+ 
+       NEOFETCH
+$ bash neofetch
